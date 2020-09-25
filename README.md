@@ -13,6 +13,7 @@ We have to find the most diverse and big cluster of restaurant neighborhoods for
 and for that we will go with k means clustering algorithm for optimal clusters.
 
 DATA
+
 First, we will scrape the suburbs neighborhood data using beautiful soup from INTERNET and
 use geopy for location coordinates also preprocess and clean the data, our four top cities are
 
