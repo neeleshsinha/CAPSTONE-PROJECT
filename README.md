@@ -15,11 +15,15 @@ and for that we will go with k means clustering algorithm for optimal clusters.
 DATA
 First, we will scrape the suburbs neighborhood data using beautiful soup from INTERNET and
 use geopy for location coordinates also preprocess and clean the data, our four top cities are
+
 HYDERABAD
 Source https://commons.wikimedia.org/wiki/Category:Suburbs_of_Hyderabad,_India
+
 BANGALORE
 Source https://commons.wikimedia.org/wiki/Category:Suburbs_of_Bangalore
+
 MUMBAI
 Source https://commons.wikimedia.org/wiki/Category:Suburbs_of_Mumbai
+
 CHENNAI
 Source https://commons.wikimedia.org/wiki/Category:Suburbs_of_Chennai
