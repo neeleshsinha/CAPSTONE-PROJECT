@@ -1,5 +1,5 @@
           CAPSTONE-PROJECT
-[# IBM DATA SCIENCE PROFESSIONAL CERTIFICATE}(https://www.coursera.org/professional-certificates/ibm-data-science)
+[# IBM DATA SCIENCE PROFESSIONAL CERTIFICATE](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 # THE BATTLE OF NEIGHBORHOODS
 
