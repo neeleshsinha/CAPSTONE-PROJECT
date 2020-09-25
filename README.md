@@ -28,3 +28,10 @@ Source https://commons.wikimedia.org/wiki/Category:Suburbs_of_Mumbai
 
 # CHENNAI
 Source https://commons.wikimedia.org/wiki/Category:Suburbs_of_Chennai
+
+# METHODOLOGY
+1.Using Foursquare API to get different types of restaurant that exist within each city's
+neighborhood. The Foursquare API allows application developers to interact with the
+Foursquare platform. The API itself is a RESTful set of addresses to which you can send requests,
+so there's really nothing to download onto your server. The Foursquare Places API provides
+location-based experiences with diverse information about venues, users, photos, and check-ins.
